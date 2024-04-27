@@ -15,5 +15,6 @@ public class conflict1 {
 
     // 2 some new information
 
+    // sasha is doing the last commit
 
 }
