@@ -4,15 +4,16 @@ public class conflict1 {
     //inf
     //,,,,
     //....
-
-
+    //
     // doing new conflict
 
     // i need a new computer
 
- sasha
-    // 2 some new information
 
+    // 1 some new information
+
+
+    // 2 some new information
 
 
 }
