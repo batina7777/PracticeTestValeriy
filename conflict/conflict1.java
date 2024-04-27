@@ -7,4 +7,6 @@ public class conflict1 {
 
     // i need a new computer
 
+    // 2 some new information
+
 }
