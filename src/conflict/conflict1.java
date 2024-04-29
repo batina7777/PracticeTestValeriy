@@ -1,11 +1,11 @@
-package conflict;
+package src.conflict;
 
 public class conflict1 {
     //inf
     //,,,,
     //....
     //
-    // doing new conflict
+    // doing new src.conflict
 
     // i need a new computer
 
@@ -14,8 +14,7 @@ public class conflict1 {
 
 
     // 2 some new information
-    // conflict
+    // src.conflict
 
-    // sasha is doing the last commit
 
 }

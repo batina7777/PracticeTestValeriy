@@ -1,3 +1,5 @@
+package src;
+
 public class vika {
 
     // new information
