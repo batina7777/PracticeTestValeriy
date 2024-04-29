@@ -16,9 +16,5 @@ public class conflict1 {
     // 2 some new information
     // conflict
 
-<<<<<<< HEAD
-    // sasha is doing the last commit
-=======
->>>>>>> Hokim
 
 }
